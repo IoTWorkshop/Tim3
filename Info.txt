@@ -1,0 +1,2 @@
+ReceiveIoTHubMsg prima broj sa clouda i deploya se na mob 
+MsgToIoTHub salje broj na cloud i deploya se na raspberry 
