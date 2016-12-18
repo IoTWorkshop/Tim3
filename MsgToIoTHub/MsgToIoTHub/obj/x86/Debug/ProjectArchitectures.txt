@@ -1,0 +1,1 @@
+C:\Users\Vedo\Documents\Visual Studio 2015\Projects\MsgToIoTHub\MsgToIoTHub\MsgToIoTHub.csproj;x86
